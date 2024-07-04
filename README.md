@@ -9,8 +9,8 @@ Hello! I am passionate about software development with a strong knowledge of SQL
 
 ### Skills
 - **SQL**: Proficient in writing complex queries and managing databases.
-- **Python**: Experienced in scripting, automation, and application development.
-- **Django**: Skilled in building scalable and secure web applications.
+- **Python**: Skilled in programming which I applied during my projects.
+- **Django**: Skilled in building scalable and secure web applications through my academic and project experiences.
 
 I am excited about collaborating on interesting projects and contributing to the open-source community. Feel free to reach out to me!
 
