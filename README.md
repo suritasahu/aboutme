@@ -5,7 +5,7 @@
 
 # About
 
-Hello! I am passionate about software development with a strong knowledge of SQL and Python. I have a good command of Django, which I enjoy using to build robust web applications. I am always eager to learn new technologies and implement them in projects, ensuring detailed and high-quality work. My persistence and dedication drive me to continuously improve and achieve excellence in my field.
+Hello! I am passionate about Full Stack development with a strong knowledge of SQL and Python. I have a good command of Django and web essential, which I enjoy using to build robust web applications. I am always eager to learn new technologies and implement them in projects, ensuring detailed and high-quality work. My persistence and dedication drive me to continuously improve and achieve excellence in my field.
 
 ### Skills
 - **SQL**: Proficient in writing complex queries and managing databases.
